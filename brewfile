@@ -1,0 +1,38 @@
+update
+upgrade
+
+tap homebrew/versions
+tap phinze/homebrew-cask
+
+install brew-cask
+install zsh
+install autojump
+install git
+install tig
+install ansible
+install wget
+install curl
+install jq
+install vim
+install mysql
+install mongodb
+install android
+
+cask install google-chrome
+cask install virtualbox
+cask install vagrant
+cask install kobito
+cask install alfred
+cask install dropbox
+cask install evernote
+cask install skitch
+cask install github
+cask install clipmenu
+cask install bettertouchtool
+cask install google-japanese-ime
+cask install the-unarchiver
+cask install sublime-text
+cask install android-studio
+cask install genymotion
+cask install onyx
+cask install appcleaner
